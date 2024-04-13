@@ -26,6 +26,8 @@ td{
 }
 img{
     border-radius: 10px;
+    width: 30px;
+    height: auto;
 }
 button{
     background-color: #e57031;
